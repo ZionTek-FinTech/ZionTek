@@ -6,3 +6,5 @@ bola
 seun
 dammy
 titi
+jire
+isoji
